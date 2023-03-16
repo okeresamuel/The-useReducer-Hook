@@ -11,6 +11,6 @@ useReducer is one out of fifteen (15) react built in hooks it helps in managing 
 
 #### Its a good idea to use the useReducer hook to manage multiple states and as well improve readability (dry) ☀️
 
-#### *** The code  show how to use the useReducer hook to manage multiple states f in this case we are making an api request to fetch user informations from an external database.
+#### *** The code  show how to use the useReducer hook to manage multiple states in this case we are making an api request to fetch user informations from an external database.
 
 ![Screenshot (255)](https://user-images.githubusercontent.com/104143398/225601213-1bbbda4b-8126-4f99-aa9b-d0b730d0587f.png)

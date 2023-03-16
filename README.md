@@ -1,5 +1,5 @@
 # The-useReducer-Hook
-useReducer is one out of 10 react built in hooks it helps in managing multiple states that relates to each other example would making an api request or handling multiple form fields
+useReducer is one out of fifteen (15) built in react hooks. it helps in managing multiple states that relates to each other example would making an api request or handling multiple form fields
 
 #### There are many different hooks in react let's look at the useReducer
 #### The function of the useReducer hook is based on managing multiple states that are related to each other

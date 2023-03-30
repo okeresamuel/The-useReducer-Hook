@@ -13,6 +13,6 @@ useReducer is one out of fifteen (15) built in react hooks. it helps in managing
 
 #### *** The code  show how to use the useReducer hook to manage multiple states in this case we are making an api request to fetch user informations from an external database.
 
-![Screenshot (255)](https://user-images.githubusercontent.com/104143398/225601213-1bbbda4b-8126-4f99-aa9b-d0b730d0587f.png)
+![Screenshot (25)](https://user-images.githubusercontent.com/104143398/225601213-1bbbda4b-8126-4f99-aa9b-d0b730d0587f.png)
 
 Read more: https://medium.com/@okeresamuel360/the-usereducer-hook-in-react-5b3a4af93af5
